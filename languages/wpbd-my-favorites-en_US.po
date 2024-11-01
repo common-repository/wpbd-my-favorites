@@ -1,0 +1,141 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wpbd My Favorites v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-04-05 10:17+0100\n"
+"PO-Revision-Date: 2016-07-04 20:59:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: Neoptin\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: C:/Users/Tony/workspace/wordpress/trunk/wp-content/plugins/wp-security-login-notification\n"
+"X-Textdomain-Support: yes"
+
+#: wpbd-myfavorites.php:59
+#@ wpbd-my-favorites
+msgid "Options saved"
+msgstr ""
+
+#: wpbd-myfavorites.php:64
+#@ wpbd-my-favorites
+msgid "You entered an invalid value"
+msgstr ""
+
+#: wpbd-myfavorites.php:79
+#@ wpbd-my-favorites
+msgid "General settings"
+msgstr ""
+
+#: wpbd-myfavorites.php:109
+#@ wpbd-my-favorites
+msgid "Save Changes"
+msgstr ""
+
+#: includes/myfavorites-buddypress.php:15
+#: template/bp-my-favorites.php:14
+#@ wpbd-my-favorites
+msgid "Favorites"
+msgstr ""
+
+#: includes/myfavorites-buddypress.php:64
+#: includes/myfavorites-buddypress.php:81
+#@ wpbd-my-favorites
+msgid "My Favorites"
+msgstr ""
+
+#: wpbd-myfavorites.php:77
+#@ wpbd-my-favorites
+msgid "How many display favorites"
+msgstr ""
+
+#: wpbd-myfavorites.php:85
+#@ wpbd-my-favorites
+msgid "Favorites number"
+msgstr ""
+
+#: wpbd-myfavorites.php:86
+#@ wpbd-my-favorites
+msgid "Determines how much favorites you want to display."
+msgstr ""
+
+#: wpbd-myfavorites.php:81
+#@ wpbd-my-favorites
+msgid "Configure how many favorites you want to display on profile page and more."
+msgstr ""
+
+#: wpbd-myfavorites.php:90
+#@ wpbd-my-favorites
+msgid "Favorites link name"
+msgstr ""
+
+#: wpbd-myfavorites.php:91
+#@ wpbd-my-favorites
+msgid "Determines link name on profil."
+msgstr ""
+
+#: wpbd-myfavorites.php:95
+#@ wpbd-my-favorites
+msgid "How to display the favorites"
+msgstr ""
+
+#: wpbd-myfavorites.php:98
+#@ wpbd-my-favorites
+msgid "Thumbnail"
+msgstr ""
+
+#: wpbd-myfavorites.php:99
+#@ wpbd-my-favorites
+msgid "Link"
+msgstr ""
+
+#. translators: plugin header field 'Name'
+#: wpbd-myfavorites.php:0
+#@ wpbd-my-favorites
+msgid "Wpbd My Favorites"
+msgstr ""
+
+#. translators: plugin header field 'PluginURI'
+#: wpbd-myfavorites.php:0
+#@ wpbd-my-favorites
+msgid "http://www.gamix.fr/wpbpmyfavorites.php"
+msgstr ""
+
+#. translators: plugin header field 'Description'
+#: wpbd-myfavorites.php:0
+#@ wpbd-my-favorites
+msgid "Shows favorites post on member profile. Requires Buddypress"
+msgstr ""
+
+#. translators: plugin header field 'Author'
+#: wpbd-myfavorites.php:0
+#@ wpbd-my-favorites
+msgid "Fredd"
+msgstr ""
+
+#. translators: plugin header field 'AuthorURI'
+#: wpbd-myfavorites.php:0
+#@ wpbd-my-favorites
+msgid "http://www.gamix.fr/"
+msgstr ""
+
+#. translators: plugin header field 'Version'
+#: wpbd-myfavorites.php:0
+#@ wpbd-my-favorites
+msgid "1.0.2"
+msgstr ""
+
+#: wpbd-myfavorites.php:23
+#: wpbd-myfavorites.php:24
+#@ wpbd-my-favorites
+msgid "Wpbd-MyFavorites"
+msgstr ""
+
